@@ -1,5 +1,5 @@
 # stubs
 The best StubS
 
-- Konstantin
+Konstantin
 - dies ein lustiger Satz
